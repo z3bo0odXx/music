@@ -1,0 +1,6 @@
+owner= @MaRsHmElLo#6766
+prefix=1 
+game=By AlMpy
+stayinchannel=true
+songinstatus=false
+token=NTQ4OTE5MDcxODc0MjIwMDM0.D1gH8A.uK6gSvmQNgVbG5VI5gLp6mAMoTw
